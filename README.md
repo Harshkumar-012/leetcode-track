@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harshkumar-012/leetcode-track/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Harshkumar-012/leetcode-track/tree/main/0048-rotate-image/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0202-happy-number/) | Easy |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/Harshkumar-012/leetcode-track/tree/main/0058-length-of-last-word/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
