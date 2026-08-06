@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
