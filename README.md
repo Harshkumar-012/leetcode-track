@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Harshkumar-012/leetcode-track/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0053-maximum-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0189-rotate-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0053-maximum-subarray/) | Medium |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
