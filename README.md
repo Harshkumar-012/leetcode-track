@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Harshkumar-012/leetcode-track/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Harshkumar-012/leetcode-track/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/Harshkumar-012/leetcode-track/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0189-rotate-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Harshkumar-012/leetcode-track/tree/main/0075-sort-colors/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Harshkumar-012/leetcode-track/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Harshkumar-012/leetcode-track/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Harshkumar-012/leetcode-track/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
