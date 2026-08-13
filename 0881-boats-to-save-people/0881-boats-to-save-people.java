@@ -8,9 +8,14 @@ class Solution {
        while(st<=ed){
         if(p[st]+p[ed]<=l){
             st++;
-        }
+            ed--;
             ans++;
-            ed--; 
+        }
+        else{
+            ans++;
+            ed--;
+        }
+             
        }
        return ans;
     }
