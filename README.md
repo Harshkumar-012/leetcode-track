@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
 | [0896-monotonic-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0896-monotonic-array/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshkumar-012/leetcode-track/tree/main/0075-sort-colors/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/3731-find-missing-elements/) | Easy |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0136-single-number/) | Easy |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
