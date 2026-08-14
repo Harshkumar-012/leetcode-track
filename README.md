@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Harshkumar-012/leetcode-track/tree/main/0504-base-7/) | Easy |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Harshkumar-012/leetcode-track/tree/main/0520-detect-capital/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Harshkumar-012/leetcode-track/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0053-maximum-subarray/) | Medium |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 <!---LeetCode Topics End-->
