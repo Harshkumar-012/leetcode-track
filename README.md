@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshkumar-012/leetcode-track/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Harshkumar-012/leetcode-track/tree/main/0075-sort-colors/) | Medium |
+| [0229-majority-element-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0202-happy-number/) | Easy |
+| [0229-majority-element-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -211,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
