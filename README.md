@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3895-count-digit-appearances](https://github.com/Harshkumar-012/leetcode-track/tree/main/3895-count-digit-appearances/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Harshkumar-012/leetcode-track/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0229-majority-element-ii/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
