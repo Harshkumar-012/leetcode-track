@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2923-find-champion-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/2923-find-champion-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/3731-find-missing-elements/) | Easy |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Harshkumar-012/leetcode-track/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2079-watering-plants](https://github.com/Harshkumar-012/leetcode-track/tree/main/2079-watering-plants/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
