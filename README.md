@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0896-monotonic-array/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshkumar-012/leetcode-track/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/Harshkumar-012/leetcode-track/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1701-average-waiting-time](https://github.com/Harshkumar-012/leetcode-track/tree/main/1701-average-waiting-time/) | Medium |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshkumar-012/leetcode-track/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Harshkumar-012/leetcode-track/tree/main/0504-base-7/) | Easy |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshkumar-012/leetcode-track/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0136-single-number/) | Easy |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Timsort
