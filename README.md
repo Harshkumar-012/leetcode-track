@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0541-reverse-string-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshkumar-012/leetcode-track/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0504-base-7](https://github.com/Harshkumar-012/leetcode-track/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Harshkumar-012/leetcode-track/tree/main/0520-detect-capital/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0541-reverse-string-ii/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
