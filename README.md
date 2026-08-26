@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Harshkumar-012/leetcode-track/tree/main/1701-average-waiting-time/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Harshkumar-012/leetcode-track/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2079-watering-plants](https://github.com/Harshkumar-012/leetcode-track/tree/main/2079-watering-plants/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## String
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/Harshkumar-012/leetcode-track/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3115-maximum-prime-difference](https://github.com/Harshkumar-012/leetcode-track/tree/main/3115-maximum-prime-difference/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
