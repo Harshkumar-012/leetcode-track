@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3110-score-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3110-score-of-a-string/) | Easy |
 | [3136-valid-word](https://github.com/Harshkumar-012/leetcode-track/tree/main/3136-valid-word/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Sliding Window
