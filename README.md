@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshkumar-012/leetcode-track/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0383-ransom-note](https://github.com/Harshkumar-012/leetcode-track/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0229-majority-element-ii/) | Medium |
+| [0383-ransom-note](https://github.com/Harshkumar-012/leetcode-track/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Harshkumar-012/leetcode-track/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/Harshkumar-012/leetcode-track/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0504-base-7](https://github.com/Harshkumar-012/leetcode-track/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Harshkumar-012/leetcode-track/tree/main/0520-detect-capital/) | Easy |
