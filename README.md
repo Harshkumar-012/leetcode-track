@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Harshkumar-012/leetcode-track/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harshkumar-012/leetcode-track/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
