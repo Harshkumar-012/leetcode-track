@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Harshkumar-012/leetcode-track/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2923-find-champion-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/2923-find-champion-i/) | Easy |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshkumar-012/leetcode-track/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
