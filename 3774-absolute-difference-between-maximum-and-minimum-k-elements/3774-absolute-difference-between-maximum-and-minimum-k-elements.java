@@ -7,11 +7,8 @@ class Solution {
         for(int i=0;i<k;i++){
             sml+=nums[i];
         }
-        int a = n-1;
-        while(k!=0){
-            lar+=nums[a];
-            a--;
-            k--;
+        for(int j=n-1;j>=n-k;j--){
+            lar+=nums[j];
         }
         return lar-sml;
     }
