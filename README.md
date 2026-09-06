@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Harshkumar-012/leetcode-track/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Harshkumar-012/leetcode-track/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0229-majority-element-ii/) | Medium |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harshkumar-012/leetcode-track/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
