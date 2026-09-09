@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3174-clear-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/3174-clear-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3110-score-of-a-string/) | Easy |
 | [3136-valid-word](https://github.com/Harshkumar-012/leetcode-track/tree/main/3136-valid-word/) | Easy |
+| [3174-clear-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/3174-clear-digits/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3174-clear-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/3174-clear-digits/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
