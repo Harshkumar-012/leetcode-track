@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Harshkumar-012/leetcode-track/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/Harshkumar-012/leetcode-track/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
