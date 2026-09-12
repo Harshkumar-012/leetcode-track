@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshkumar-012/leetcode-track/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1550-three-consecutive-odds](https://github.com/Harshkumar-012/leetcode-track/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Harshkumar-012/leetcode-track/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1701-average-waiting-time](https://github.com/Harshkumar-012/leetcode-track/tree/main/1701-average-waiting-time/) | Medium |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harshkumar-012/leetcode-track/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Counting Sort
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harshkumar-012/leetcode-track/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/3174-clear-digits/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
