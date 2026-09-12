@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0263-ugly-number/) | Easy |
+| [0357-count-numbers-with-unique-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0504-base-7](https://github.com/Harshkumar-012/leetcode-track/tree/main/0504-base-7/) | Easy |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshkumar-012/leetcode-track/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harshkumar-012/leetcode-track/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 <!---LeetCode Topics End-->
