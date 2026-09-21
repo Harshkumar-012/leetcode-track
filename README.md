@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Harshkumar-012/leetcode-track/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harshkumar-012/leetcode-track/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Harshkumar-012/leetcode-track/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Harshkumar-012/leetcode-track/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshkumar-012/leetcode-track/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
