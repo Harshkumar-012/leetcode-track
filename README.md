@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/Harshkumar-012/leetcode-track/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3921-score-validator](https://github.com/Harshkumar-012/leetcode-track/tree/master/3921-score-validator) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Sorting
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Harshkumar-012/leetcode-track/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3921-score-validator](https://github.com/Harshkumar-012/leetcode-track/tree/master/3921-score-validator) |
 ## String
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Harshkumar-012/leetcode-track/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3921-score-validator](https://github.com/Harshkumar-012/leetcode-track/tree/master/3921-score-validator) |
 ## Sliding Window
 |  |
 | ------- |
