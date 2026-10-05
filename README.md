@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Harshkumar-012/leetcode-track/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Harshkumar-012/leetcode-track/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harshkumar-012/leetcode-track/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0682-baseball-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Harshkumar-012/leetcode-track/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
