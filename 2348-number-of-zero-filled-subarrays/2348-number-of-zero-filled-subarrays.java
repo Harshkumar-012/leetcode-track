@@ -6,10 +6,21 @@ class Solution {
         for(int i=0;i<n;i++){
             if(nums[i]==0){
                 count++;
-                ans+=count;
             }
             else{
+                if(count>0){
+                    while(count!=0){
+                        ans+=count;
+                        count--;
+                    }
+                }
                 count = 0;
+            }
+        }
+        if(count>0){
+            while(count!=0){
+                ans+=count;
+                count--;
             }
         }
         return ans;
