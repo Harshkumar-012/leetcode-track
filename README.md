@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Harshkumar-012/leetcode-track/tree/main/0242-valid-anagram/) | Easy |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/Harshkumar-012/leetcode-track/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0567-permutation-in-string/) | Medium |
