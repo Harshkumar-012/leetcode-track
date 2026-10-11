@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1550-three-consecutive-odds](https://github.com/Harshkumar-012/leetcode-track/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Harshkumar-012/leetcode-track/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/Harshkumar-012/leetcode-track/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1701-average-waiting-time](https://github.com/Harshkumar-012/leetcode-track/tree/main/1701-average-waiting-time/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshkumar-012/leetcode-track/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/Harshkumar-012/leetcode-track/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Harshkumar-012/leetcode-track/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshkumar-012/leetcode-track/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/Harshkumar-012/leetcode-track/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
