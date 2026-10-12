@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Harshkumar-012/leetcode-track/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harshkumar-012/leetcode-track/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Harshkumar-012/leetcode-track/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2651-calculate-delayed-arrival-time](https://github.com/Harshkumar-012/leetcode-track/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Harshkumar-012/leetcode-track/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/Harshkumar-012/leetcode-track/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/Harshkumar-012/leetcode-track/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
 ## Euclidean Algorithm
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Harshkumar-012/leetcode-track/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/Harshkumar-012/leetcode-track/tree/main/3115-maximum-prime-difference/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -470,4 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Harshkumar-012/leetcode-track/tree/master/1227-airplane-seat-assignment-probability) |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Harshkumar-012/leetcode-track/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Harshkumar-012/leetcode-track/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 <!---LeetCode Topics End-->
