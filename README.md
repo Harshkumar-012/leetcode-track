@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshkumar-012/leetcode-track/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3708-longest-fibonacci-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
