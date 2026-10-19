@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-deletions-to-make-array-sharp">4083. Minimum Deletions to Make Array Sharp</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-deletions-to-make-array-sharp">4430. Minimum Deletions to Make Array Sharp</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>You may delete any number of elements from <code>nums</code>. The remaining elements keep their original order.</p>
 
