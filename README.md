@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshkumar-012/leetcode-track/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Harshkumar-012/leetcode-track/tree/master/3638-maximum-balanced-shipments) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3708-longest-fibonacci-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshkumar-012/leetcode-track/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Harshkumar-012/leetcode-track/tree/master/3638-maximum-balanced-shipments) |
 ## Counting Sort
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Harshkumar-012/leetcode-track/tree/master/3638-maximum-balanced-shipments) |
 ## Game Theory
 |  |
 | ------- |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/3174-clear-digits/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Harshkumar-012/leetcode-track/tree/master/3638-maximum-balanced-shipments) |
 ## Graph Theory
 |  |
 | ------- |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Harshkumar-012/leetcode-track/tree/master/3638-maximum-balanced-shipments) |
 ## Recursion
 |  |
 | ------- |
