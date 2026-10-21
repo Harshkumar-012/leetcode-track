@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/Harshkumar-012/leetcode-track/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harshkumar-012/leetcode-track/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2079-watering-plants](https://github.com/Harshkumar-012/leetcode-track/tree/main/2079-watering-plants/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshkumar-012/leetcode-track/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harshkumar-012/leetcode-track/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harshkumar-012/leetcode-track/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshkumar-012/leetcode-track/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Harshkumar-012/leetcode-track/tree/master/2000-reverse-prefix-of-word) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harshkumar-012/leetcode-track/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
