@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harshkumar-012/leetcode-track/tree/main/0877-stone-game/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Harshkumar-012/leetcode-track/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshkumar-012/leetcode-track/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1362-closest-divisors](https://github.com/Harshkumar-012/leetcode-track/tree/main/1362-closest-divisors/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -518,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshkumar-012/leetcode-track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1362-closest-divisors](https://github.com/Harshkumar-012/leetcode-track/tree/main/1362-closest-divisors/) | Medium |
 <!---LeetCode Topics End-->
