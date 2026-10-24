@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Harshkumar-012/leetcode-track/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Harshkumar-012/leetcode-track/tree/main/2409-count-days-spent-together/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harshkumar-012/leetcode-track/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harshkumar-012/leetcode-track/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2651-calculate-delayed-arrival-time](https://github.com/Harshkumar-012/leetcode-track/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshkumar-012/leetcode-track/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Harshkumar-012/leetcode-track/tree/main/2409-count-days-spent-together/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Harshkumar-012/leetcode-track/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2678-number-of-senior-citizens](https://github.com/Harshkumar-012/leetcode-track/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
