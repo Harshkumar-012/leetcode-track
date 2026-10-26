@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0567-permutation-in-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Harshkumar-012/leetcode-track/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshkumar-012/leetcode-track/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshkumar-012/leetcode-track/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Harshkumar-012/leetcode-track/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshkumar-012/leetcode-track/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Harshkumar-012/leetcode-track/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Harshkumar-012/leetcode-track/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshkumar-012/leetcode-track/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harshkumar-012/leetcode-track/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Harshkumar-012/leetcode-track/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshkumar-012/leetcode-track/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshkumar-012/leetcode-track/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshkumar-012/leetcode-track/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/0136-single-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Harshkumar-012/leetcode-track/tree/master/0371-sum-of-two-integers) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Harshkumar-012/leetcode-track/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
