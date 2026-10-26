@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshkumar-012/leetcode-track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/3731-find-missing-elements/) | Easy |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/3174-clear-digits/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3271-hash-divided-string](https://github.com/Harshkumar-012/leetcode-track/tree/master/3271-hash-divided-string) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Harshkumar-012/leetcode-track/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3921-score-validator](https://github.com/Harshkumar-012/leetcode-track/tree/master/3921-score-validator) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Harshkumar-012/leetcode-track/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
