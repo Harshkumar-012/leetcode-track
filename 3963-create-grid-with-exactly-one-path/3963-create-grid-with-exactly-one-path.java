@@ -1,20 +1,21 @@
 class Solution {
     public String[] createGrid(int m, int n) {
-        char dot = '.';
-        char hash = '#';
-        String[] ans = new String[m];
-        for(int i=0;i<m;i++) {
-            String row = "";
+        String ans[][] = new String[m][n];
+        for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(i==0 || j==n-1) {
-                    row += dot;
-                } 
-                else{
-                    row += hash;
-                }
+                ans[i][j] = "#";
             }
-            ans[i] = row;
         }
-        return ans;
+        for(int i=0;i<m;i++){
+            ans[i][0] = ".";
+        }
+        for(int i=0;i<n;i++){
+            ans[m-1][i] = ".";
+        }
+        String[] result = new String[m];
+        for (int i=0;i<m;i++){
+            result[i] = String.join("",ans[i]);
+        }
+        return result;
     }
 }
