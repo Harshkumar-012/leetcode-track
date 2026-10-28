@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Harshkumar-012/leetcode-track/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshkumar-012/leetcode-track/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshkumar-012/leetcode-track/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Harshkumar-012/leetcode-track/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshkumar-012/leetcode-track/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshkumar-012/leetcode-track/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Harshkumar-012/leetcode-track/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
