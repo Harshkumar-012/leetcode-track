@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2923-find-champion-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/2923-find-champion-i/) | Easy |
 | [2951-find-the-peaks](https://github.com/Harshkumar-012/leetcode-track/tree/main/2951-find-the-peaks/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Harshkumar-012/leetcode-track/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshkumar-012/leetcode-track/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -546,4 +547,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1362-closest-divisors](https://github.com/Harshkumar-012/leetcode-track/tree/main/1362-closest-divisors/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 <!---LeetCode Topics End-->
