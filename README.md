@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Harshkumar-012/leetcode-track/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Harshkumar-012/leetcode-track/tree/main/2906-construct-product-matrix/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshkumar-012/leetcode-track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/2923-find-champion-i/) | Easy |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshkumar-012/leetcode-track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshkumar-012/leetcode-track/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Harshkumar-012/leetcode-track/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
