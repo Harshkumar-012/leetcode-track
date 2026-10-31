@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Harshkumar-012/leetcode-track/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshkumar-012/leetcode-track/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshkumar-012/leetcode-track/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Harshkumar-012/leetcode-track/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Harshkumar-012/leetcode-track/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/Harshkumar-012/leetcode-track/tree/main/0561-array-partition/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshkumar-012/leetcode-track/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Harshkumar-012/leetcode-track/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshkumar-012/leetcode-track/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Harshkumar-012/leetcode-track/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harshkumar-012/leetcode-track/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshkumar-012/leetcode-track/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshkumar-012/leetcode-track/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
