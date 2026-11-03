@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-longest-fibonacci-subarray](https://github.com/Harshkumar-012/leetcode-track/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshkumar-012/leetcode-track/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harshkumar-012/leetcode-track/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Harshkumar-012/leetcode-track/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshkumar-012/leetcode-track/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Harshkumar-012/leetcode-track/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harshkumar-012/leetcode-track/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Harshkumar-012/leetcode-track/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Harshkumar-012/leetcode-track/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
