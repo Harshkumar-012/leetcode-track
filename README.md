@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshkumar-012/leetcode-track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/2923-find-champion-i/) | Easy |
 | [2951-find-the-peaks](https://github.com/Harshkumar-012/leetcode-track/tree/main/2951-find-the-peaks/) | Easy |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Harshkumar-012/leetcode-track/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshkumar-012/leetcode-track/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshkumar-012/leetcode-track/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Harshkumar-012/leetcode-track/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
