@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Harshkumar-012/leetcode-track/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshkumar-012/leetcode-track/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Harshkumar-012/leetcode-track/tree/master/2000-reverse-prefix-of-word) |
+| [2396-strictly-palindromic-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Harshkumar-012/leetcode-track/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Harshkumar-012/leetcode-track/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Harshkumar-012/leetcode-track/tree/main/2409-count-days-spent-together/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harshkumar-012/leetcode-track/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harshkumar-012/leetcode-track/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Harshkumar-012/leetcode-track/tree/master/1227-airplane-seat-assignment-probability) |
+| [2396-strictly-palindromic-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
