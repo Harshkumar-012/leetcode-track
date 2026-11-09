@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Harshkumar-012/leetcode-track/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshkumar-012/leetcode-track/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshkumar-012/leetcode-track/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/Harshkumar-012/leetcode-track/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshkumar-012/leetcode-track/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Harshkumar-012/leetcode-track/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Enumeration
