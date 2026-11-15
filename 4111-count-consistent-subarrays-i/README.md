@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-consistent-subarrays-i">4111. Count Consistent Subarrays I</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-consistent-subarrays-i">4476. Count Consistent Subarrays I</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>A subarray is called <strong>consistent</strong> if the <strong>bitwise AND</strong> of all its elements is equal to the <strong>minimum</strong> value of the subarray.</p>
 
