@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshkumar-012/leetcode-track/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harshkumar-012/leetcode-track/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Harshkumar-012/leetcode-track/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harshkumar-012/leetcode-track/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Harshkumar-012/leetcode-track/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Harshkumar-012/leetcode-track/tree/main/2409-count-days-spent-together/) | Easy |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Harshkumar-012/leetcode-track/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2079-watering-plants](https://github.com/Harshkumar-012/leetcode-track/tree/main/2079-watering-plants/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Harshkumar-012/leetcode-track/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshkumar-012/leetcode-track/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Harshkumar-012/leetcode-track/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/Harshkumar-012/leetcode-track/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/Harshkumar-012/leetcode-track/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshkumar-012/leetcode-track/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
