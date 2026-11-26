@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshkumar-012/leetcode-track/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Harshkumar-012/leetcode-track/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshkumar-012/leetcode-track/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Harshkumar-012/leetcode-track/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshkumar-012/leetcode-track/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshkumar-012/leetcode-track/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Harshkumar-012/leetcode-track/tree/main/3174-clear-digits/) | Easy |
 | [3271-hash-divided-string](https://github.com/Harshkumar-012/leetcode-track/tree/master/3271-hash-divided-string) |
+| [3360-stone-removal-game](https://github.com/Harshkumar-012/leetcode-track/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshkumar-012/leetcode-track/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Harshkumar-012/leetcode-track/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3921-score-validator](https://github.com/Harshkumar-012/leetcode-track/tree/master/3921-score-validator) |
